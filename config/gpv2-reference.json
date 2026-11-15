@@ -1,0 +1,152 @@
+{
+  "project": "Exotic Tigers Controller",
+  "creator": "ExTYeredey",
+  "skin": "Shadow Tiger",
+  "platform": "GamePadViewer 2",
+  "status": "reference-only-assets-not-recovered",
+  "warning": "These dimensions and coordinates are captured from user screenshots and may reflect different editor revisions. This is NOT an import-ready GPV2 schema.",
+  "base": {
+    "width": 750,
+    "height": 630,
+    "connected_image_url_original": "http://127.0.0.1:18764/reference-v2/base.svg",
+    "public_image_url_after_deploy": "https://yeredeysuarez.github.io/exotic-tigers-controller/reference-v2/base.svg"
+  },
+  "parts": [
+    {
+      "name": "Left Trigger",
+      "width": 124,
+      "height": 150,
+      "top": 0,
+      "left": 132,
+      "note": "latest screenshot 2026-11-15"
+    },
+    {
+      "name": "Right Trigger",
+      "width": 88,
+      "height": 121,
+      "top": 0,
+      "left": 510,
+      "note": "earlier GPV2 screenshot"
+    },
+    {
+      "name": "Left Bumper",
+      "width": 170,
+      "height": 61,
+      "top": 129,
+      "left": 107
+    },
+    {
+      "name": "Right Bumper",
+      "width": 170,
+      "height": 61,
+      "top": 129,
+      "left": 473
+    },
+    {
+      "name": "Player Indicator",
+      "width": 48,
+      "height": 48,
+      "top": 255,
+      "left": 353
+    },
+    {
+      "name": "Start Button",
+      "width": 33,
+      "height": 33,
+      "top": 264,
+      "left": 414
+    },
+    {
+      "name": "Select Button",
+      "width": 33,
+      "height": 33,
+      "top": 264,
+      "left": 306
+    },
+    {
+      "name": "Left Thumbstick",
+      "width": 83,
+      "height": 83,
+      "top": 239,
+      "left": 144
+    },
+    {
+      "name": "Right Thumbstick",
+      "width": 83,
+      "height": 83,
+      "top": 352,
+      "left": 432
+    },
+    {
+      "name": "A/Cross Button",
+      "width": 48,
+      "height": 48,
+      "top": 304,
+      "left": 544
+    },
+    {
+      "name": "B/Circle Button",
+      "width": 48,
+      "height": 48,
+      "top": 253,
+      "left": 594
+    },
+    {
+      "name": "X/Square Button",
+      "width": 48,
+      "height": 48,
+      "top": 253,
+      "left": 493
+    },
+    {
+      "name": "Y/Triangle Button",
+      "width": 48,
+      "height": 48,
+      "top": 203,
+      "left": 544
+    },
+    {
+      "name": "D-Pad",
+      "width": 110,
+      "height": 111,
+      "top": 345,
+      "left": 223,
+      "children": [
+        {
+          "name": "Up",
+          "width": 34,
+          "height": 56,
+          "top": 1,
+          "left": 38
+        },
+        {
+          "name": "Down",
+          "width": 34,
+          "height": 56,
+          "top": 56,
+          "left": 38
+        },
+        {
+          "name": "Left",
+          "width": 56,
+          "height": 34,
+          "top": 39,
+          "left": 0
+        },
+        {
+          "name": "Right",
+          "width": 56,
+          "height": 34,
+          "top": 39,
+          "left": 55
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Do not replace existing GPV2 images with invented asset names.",
+    "Confirm each URL, neutral/pressed variant and mapping in GPV2 before changing.",
+    "A public repository and GitHub Pages host only public resources: inspect assets prior to commit.",
+    "Back up original GPV2 controller settings or duplicate controller before editing."
+  ]
+}
